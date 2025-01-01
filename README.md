@@ -68,7 +68,7 @@ This project focuses specifically on regression tasks. Key components of the imp
 
 - **Programming Language:** Python
 - **Libraries:** pandas, numpy, scikit-learn
-- **Notebook Environment:** Jupyter Notebook
+- **Notebook Environment:** VS Code
 
 ## Regression Models Used
 
@@ -83,8 +83,4 @@ This project focuses specifically on regression tasks. Key components of the imp
 - Enhanced skills in building reusable and dynamic pipelines.
 - Faced challenges in generalizing the pipeline for both regression and classification but focused on completing the regression task effectively.
 
-## Future Scope
 
-- Extend the implementation to include classification tasks as outlined in the problem statement.
-- Add support for advanced algorithms like XGBoost and Neural Networks.
-- Visualize model performance with interactive dashboards for better insights.
