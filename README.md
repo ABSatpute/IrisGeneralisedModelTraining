@@ -52,7 +52,7 @@ This project focuses specifically on regression tasks. Key components of the imp
      ```
 
 2. **Run the Workflow**
-   - Place the dataset (e.g., `iris_modified.csv`) in the project folder.
+   - Place the dataset (e.g., `iris.csv`) JSON file('algoparams_from_ui.json') in the project folder.
    - Execute the notebook (`FinalSolution.ipynb`) to run the pipeline.
 
 3. **Modify the JSON**
